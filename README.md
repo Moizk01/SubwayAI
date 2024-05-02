@@ -1,2 +1,2 @@
-Vision system repo, more more files will be uploaded as the project comes to an end. 
-View the design analysis report for more information.
+# capstone_vision
+GPT Vision model for classifying subway inventory boxes.
